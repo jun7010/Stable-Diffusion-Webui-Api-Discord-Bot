@@ -2,6 +2,9 @@
 # Stable-Diffusion-Webui-Api Discord-Bot
 
 디스코드 봇을 통해 Stable-Diffusion-WebUI에 명령어를 보내 png 파일을 생성하고, 그 결과값을 디스코드에 파일 첨부 기능을 통해 출력하는 봇입니다.
+
+---
+
 Bot that sends commands to Stable-Diffusion-WebUI via Discord, generates PNG files, and outputs the result to Discord via file attachment feature.
 (The English article was translated with the help of ChatGPT)
 
