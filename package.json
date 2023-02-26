@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "discord.js": "^14.7.1",
+    "promise": "^8.3.0",
+    "request": "^2.88.2"
+  },
+  "name": "stable_diffusion_webui_api_discord_bot",
+  "version": "1.0.0",
+  "description": "stable_diffusion_webui_api_discord_bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jun7010",
+  "license": "MIT"
+}

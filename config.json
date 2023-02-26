@@ -1,0 +1,7 @@
+{
+	"clientId": "YOUR_CLIENT_ID",
+	"guildId": "YOUR_GUILD_ID",
+	"token": "YOUR_TOKEN",
+	"url_txt": "http://127.0.0.1:7860/sdapi/v1/txt2img",
+	"url_i2i": "http://127.0.0.1:7860/sdapi/v1/img2img"
+}
